@@ -1,0 +1,14 @@
+{
+  "itemGroup.examplemod": "Ranged Pumps",
+  "block.examplemod.pump": "Pump",
+  "block.examplemod.pump.state": "%d mB of %s - %d / %d FE",
+  "block.examplemod.pump.state_empty": "Empty - %d / %d FE",
+  "block.examplemod.pump.state.energy": "Insufficient energy.",
+  "block.examplemod.pump.state.redstone": "Not working due to redstone signal.",
+  "block.examplemod.pump.state.working": "Scanning at %d, %d, %d (range: %d).",
+  "block.examplemod.pump.state.full": "Internal tank is full.",
+  "block.examplemod.pump.state.done": "Done.",
+
+
+  "item.examplemod.dirtBall": "泥土球"
+}
